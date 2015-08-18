@@ -1,4 +1,4 @@
-### Design Patterns in C\#
+### Design Patterns in CSharp
 
 There are 23 design patterns also known as Gang of Four design patterns (GoF). Gang of Four are the authors of the book, “Design Patterns: Elements of Reusable Object Oriented Software”. These 23 patterns are grouped into three main categories based on their:
 
