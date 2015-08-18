@@ -1,0 +1,4 @@
+c:\Users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson08\Lesson08.Standard\bin\Debug\Lesson08.Standard.dll
+c:\Users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson08\Lesson08.Standard\bin\Debug\Lesson08.Standard.pdb
+c:\Users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson08\Lesson08.Standard\obj\Debug\Lesson08.Standard.dll
+c:\Users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson08\Lesson08.Standard\obj\Debug\Lesson08.Standard.pdb

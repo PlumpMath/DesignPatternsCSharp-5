@@ -1,0 +1,5 @@
+c:\Users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson03\Lesson03.Core\bin\Debug\Lesson03.Core.dll
+c:\Users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson03\Lesson03.Core\bin\Debug\Lesson03.Core.pdb
+c:\Users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson03\Lesson03.Core\obj\Debug\Lesson03.Core.csprojResolveAssemblyReference.cache
+c:\Users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson03\Lesson03.Core\obj\Debug\Lesson03.Core.dll
+c:\Users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson03\Lesson03.Core\obj\Debug\Lesson03.Core.pdb

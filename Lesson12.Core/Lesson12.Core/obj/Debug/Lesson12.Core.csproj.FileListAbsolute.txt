@@ -1,0 +1,4 @@
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\Lesson12.Core\Lesson12.Core\bin\Debug\Lesson12.Core.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\Lesson12.Core\Lesson12.Core\bin\Debug\Lesson12.Core.pdb
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\Lesson12.Core\Lesson12.Core\obj\Debug\Lesson12.Core.dll
+C:\Users\Jeremy McPeak\Documents\Visual Studio 2013\Projects\Lesson12.Core\Lesson12.Core\obj\Debug\Lesson12.Core.pdb

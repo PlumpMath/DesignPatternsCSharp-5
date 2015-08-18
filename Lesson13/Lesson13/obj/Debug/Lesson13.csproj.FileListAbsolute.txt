@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13\Lesson13\bin\Debug\Lesson13.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13\Lesson13\bin\Debug\Lesson13.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13\Lesson13\bin\Debug\Lesson13.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13\Lesson13\obj\Debug\Lesson13.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13\Lesson13\obj\Debug\Lesson13.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13\Lesson13\obj\Debug\Lesson13.csprojResolveAssemblyReference.cache

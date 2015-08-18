@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13.TelevisionApp\Lesson13.TelevisionApp\bin\Debug\Lesson13.TelevisionApp.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13.TelevisionApp\Lesson13.TelevisionApp\obj\Debug\Lesson13.TelevisionApp.csprojResolveAssemblyReference.cache
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13.TelevisionApp\Lesson13.TelevisionApp\bin\Debug\Lesson13.TelevisionApp.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13.TelevisionApp\Lesson13.TelevisionApp\bin\Debug\Lesson13.TelevisionApp.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13.TelevisionApp\Lesson13.TelevisionApp\obj\Debug\Lesson13.TelevisionApp.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Lesson13.TelevisionApp\Lesson13.TelevisionApp\obj\Debug\Lesson13.TelevisionApp.pdb
